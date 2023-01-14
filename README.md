@@ -7,7 +7,7 @@
 
 <br>
 
-- A passionate Self-taught developer
+- A passionate student interested in android and web development
 - Currently learning Web Development by Self
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1zoilovqBy5slNMevzdtbKTq-uxxetAYv/view?usp=sharing)
 
