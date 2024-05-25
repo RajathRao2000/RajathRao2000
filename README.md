@@ -6,7 +6,7 @@ I am a front-end developer and I love creating user-appealing applications throu
 
 *   🌍  I'm based in Pune
 *   ✉️  You can contact me at [raorajath1998@gmail.com](mailto:raorajath1998@gmail.com)
-*   🚀  I'm currently working on [a fully responsive e-commerce site with Next.js.](http://e-commerce-new-black.vercel.app/)
+*   🚀  I'm currently working on [an e-commerce website](http://e-commerce-new-black.vercel.app/)
 *   🧠  I'm learning React, NextJS
 *   ⚡  I love creating and learning about tech.
 
